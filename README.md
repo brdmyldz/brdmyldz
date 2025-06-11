@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science @uWaterloo 2023<br>Looking for Software Developer opportunities in Canada
+Computer Science @uWaterloo 2023
 
 
 ## 🌐 Socials:
